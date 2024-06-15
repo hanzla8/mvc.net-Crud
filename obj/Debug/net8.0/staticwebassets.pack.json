@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BestSroreMvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BestSroreMvc.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products20240615160108635.jpg",
+      "PackagePath": "staticwebassets\\products20240615160108635.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products20240615160220468.jpg",
+      "PackagePath": "staticwebassets\\products20240615160220468.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products20240615161055922.jpg",
+      "PackagePath": "staticwebassets\\products20240615161055922.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products20240615161142780.jpg",
+      "PackagePath": "staticwebassets\\products20240615161142780.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\20240615161513206.png",
+      "PackagePath": "staticwebassets\\products\\20240615161513206.png"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\20240615180455143.jpg",
+      "PackagePath": "staticwebassets\\products\\20240615180455143.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep1.jpg",
+      "PackagePath": "staticwebassets\\products\\lep1.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep10.jpg",
+      "PackagePath": "staticwebassets\\products\\lep10.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep11.jpg",
+      "PackagePath": "staticwebassets\\products\\lep11.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep12.jpg",
+      "PackagePath": "staticwebassets\\products\\lep12.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep13.jpg",
+      "PackagePath": "staticwebassets\\products\\lep13.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep14.jpg",
+      "PackagePath": "staticwebassets\\products\\lep14.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep15.jpg",
+      "PackagePath": "staticwebassets\\products\\lep15.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep16.jpg",
+      "PackagePath": "staticwebassets\\products\\lep16.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep17.jpg",
+      "PackagePath": "staticwebassets\\products\\lep17.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep18.jpg",
+      "PackagePath": "staticwebassets\\products\\lep18.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep2.jpg",
+      "PackagePath": "staticwebassets\\products\\lep2.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep3.jpg",
+      "PackagePath": "staticwebassets\\products\\lep3.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep4.jpg",
+      "PackagePath": "staticwebassets\\products\\lep4.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep5.jpg",
+      "PackagePath": "staticwebassets\\products\\lep5.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep6.jpg",
+      "PackagePath": "staticwebassets\\products\\lep6.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep7.jpg",
+      "PackagePath": "staticwebassets\\products\\lep7.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep8.jpg",
+      "PackagePath": "staticwebassets\\products\\lep8.jpg"
+    },
+    {
+      "Id": "E:\\mvc Hanzla\\BestSroreMvc\\BestSroreMvc\\wwwroot\\products\\lep9.jpg",
+      "PackagePath": "staticwebassets\\products\\lep9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BestSroreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BestSroreMvc.props",
+      "PackagePath": "build\\BestSroreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BestSroreMvc.props",
+      "PackagePath": "buildMultiTargeting\\BestSroreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BestSroreMvc.props",
+      "PackagePath": "buildTransitive\\BestSroreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
